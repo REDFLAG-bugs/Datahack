@@ -10,9 +10,8 @@ Data
 2. Data Preprocessing
 3. Model Training and Evaluation
 4. Generating Submission
-Usage
-Acknowledgments
-Project Structure
+
+## Project Structure
 The project includes the following files:
 
 training_set_features.csv: Training features.
@@ -21,20 +20,19 @@ test_set_features.csv: Test features.
 submission_format.csv: Submission format.
 main.py: Main script containing the entire pipeline.
 README.md: This readme file.
-Requirements
+## Requirements
 Ensure you have the following Python libraries installed:
 
 pandas
 numpy
 scikit-learn
 joblib
-You can install them using:
 
-bash
-Copy code
-pip install pandas numpy scikit-learn joblib
-Data
-The datasets are provided as CSV files:
+__You can install them using:__
+
+_pip install pandas numpy scikit-learn joblib_
+
+## The datasets are provided as CSV files:
 
 training_set_features.csv: Contains the features for training.
 training_set_labels.csv: Contains the corresponding labels for training.
