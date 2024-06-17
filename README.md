@@ -34,7 +34,10 @@ _pip install pandas numpy scikit-learn joblib_
 
 ## The datasets are provided as CSV files:
 
-training_set_features.csv: Contains the features for training.
-training_set_labels.csv: Contains the corresponding labels for training.
-test_set_features.csv: Contains the features for testing.
-submission_format.csv: Provides the format for the submission file.
+### training_set_features.csv: Contains the features for training.
+
+### training_set_labels.csv: Contains the corresponding labels for training.
+
+### test_set_features.csv: Contains the features for testing.
+
+### submission_format.csv: Provides the format for the submission file.
